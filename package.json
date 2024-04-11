@@ -1,17 +1,21 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "type": "module",
   "description": "[![Actions Status](https://github.com/vic10898/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/vic10898/frontend-project-44/actions)",
-  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vic10898/frontend-project-44"
+  },
   "author": "",
   "license": "ISC",
-  "bin": {
-    "brain-games": "bin/brain-games.js"
-  },
+  "type": "module",
   "dependencies": {
     "npm": "^10.5.1",
     "readline-sync": "^1.4.10"
