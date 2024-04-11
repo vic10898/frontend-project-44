@@ -3,4 +3,4 @@ console.log('Welcome to the Brain Games!')
 
 import cli from '../src/cli.js';
 
-console.log(cli())
+console.log(`Hello, ${cli()}`)
