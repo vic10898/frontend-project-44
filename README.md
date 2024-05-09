@@ -6,15 +6,22 @@
 Instruction
 
 > git clone {SSH key}
+
 > cd frontend-project-44
+
 > make install
 
 so now you can do
 > make brain-games
+
 > make brain even
+
 > make brain-calc
+
 > make brain-gcd
+
 > make brain-progression
+
 > make brain-prime
 
 Also you can do
@@ -22,8 +29,13 @@ Also you can do
 
 so now you can do 
 > brain-games
+
 > brain even
+
 > brain-calc
+
 > brain-gcd
+
 > brain-progression
+
 > brain-prime
