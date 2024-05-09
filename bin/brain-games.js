@@ -3,5 +3,7 @@
 import cli from '../src/cli.js';
 
 console.log('Welcome to the Brain Games!');
-export const name = cli()
+const name = cli();
 console.log(`Hello, ${name}`);
+
+export default name;
