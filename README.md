@@ -16,7 +16,7 @@ Instruction
 so now you can do
 > make brain-games
 
-> make brain even
+> make brain-even
 
 > make brain-calc
 
@@ -32,7 +32,7 @@ Also you can do
 so now you can do 
 > brain-games
 
-> brain even
+> brain-even
 
 > brain-calc
 
@@ -41,3 +41,12 @@ so now you can do
 > brain-progression
 
 > brain-prime
+
+Examples
+
+brain-even
+[![asciicast](https://asciinema.org/a/FijAmmS9INSyTZNrrc22sRm7D.svg)](https://asciinema.org/a/FijAmmS9INSyTZNrrc22sRm7D)
+
+brain-calc
+[![asciicast](https://asciinema.org/a/EBYGL6cgwEcFcsrmtnUg5bfIk.svg)](https://asciinema.org/a/EBYGL6cgwEcFcsrmtnUg5bfIk)
+
