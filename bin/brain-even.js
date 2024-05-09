@@ -1,13 +1,4 @@
 #!/usr/bin/env node
-import play from '../src/index.js';
+import gameEven from '../src/games/brain-even.js';
 
-const rule = 'Answer "yes" if the number is even, otherwise answer "no".';
-
-const game = () => {
-  const random = Math.round(Math.random() * 100);
-  const question = `Question: ${random}`;
-  const result = (random % 2 === 0) ? 'yes' : 'no';
-  return [question, result];
-};
-
-play(rule, game);
+gameEven();
