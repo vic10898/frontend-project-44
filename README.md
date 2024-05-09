@@ -44,9 +44,17 @@ so now you can do
 
 Examples
 
-brain-even
+brain-even        
 [![asciicast](https://asciinema.org/a/FijAmmS9INSyTZNrrc22sRm7D.svg)](https://asciinema.org/a/FijAmmS9INSyTZNrrc22sRm7D)
 
-brain-calc
+brain-calc        
 [![asciicast](https://asciinema.org/a/EBYGL6cgwEcFcsrmtnUg5bfIk.svg)](https://asciinema.org/a/EBYGL6cgwEcFcsrmtnUg5bfIk)
 
+brain-gcd        
+[![asciicast](https://asciinema.org/a/94y5dBPm54rSsMY8UwzoC7KKq.svg)](https://asciinema.org/a/94y5dBPm54rSsMY8UwzoC7KKq)
+
+brain-progression
+[![asciicast](https://asciinema.org/a/WiMzDSyZdX97j5BxVUOWRCsCf.svg)](https://asciinema.org/a/WiMzDSyZdX97j5BxVUOWRCsCf)
+
+brain-prime      
+[![asciicast](https://asciinema.org/a/HKY2IOKt9doklOcEnsVRmZz8o.svg)](https://asciinema.org/a/HKY2IOKt9doklOcEnsVRmZz8o)
