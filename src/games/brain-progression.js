@@ -16,7 +16,6 @@ const game = () => {
   return [question, result];
 };
 
-
 const gameProgression = () => play(rule, game);
 
 export default gameProgression;
