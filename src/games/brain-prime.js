@@ -10,6 +10,9 @@ const game = () => {
       result = 'no';
     }
   }
+  if (random === 1) {
+    result = 'no';
+  }
   const question = `Question: ${random}`;
   return [question, result];
 };
